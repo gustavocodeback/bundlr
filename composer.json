@@ -1,0 +1,17 @@
+{
+    "name": "gustavo/bundlr",
+    "description": "A laravel framework module bundler",
+    "type": "library",
+    "authors": [
+        {
+            "name": "gustavo villas boas",
+            "email": "gu.boas13@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Bundlr\\": "src/"
+        }
+    }
+}
