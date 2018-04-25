@@ -2,6 +2,7 @@
     "name": "gustavo/bundlr",
     "description": "A laravel framework module bundler",
     "type": "library",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "gustavo villas boas",
